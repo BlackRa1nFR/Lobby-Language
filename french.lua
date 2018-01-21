@@ -18,15 +18,15 @@ GTowerLangush.AddWord( 2, "bye",	"Au revoir")
 GTowerLangush.AddWord( 2, "PleaseFullGtowerPack",	"Obtenez les dernières mises à jour du serveur http://francerp.fr")
 
 GTowerLangush.AddWord( 2, "empty_bottle",		"Bouteille Vide")
-GTowerLangush.AddWord( 2, "empty_bottle_desc",		"Ne contient absolument rien.  Ou est-ce ? Vous ne pouvez pas être sûr avant de l'avoir ouvert.")
+GTowerLangush.AddWord( 2, "empty_bottle_desc",		"Ne contient absolument rien.  Ou peut être ? Vous ne pouvez pas être sûr avant de l'avoir ouvert.")
 GTowerLangush.AddWord( 2, "alcohol_bottle",		"Bouteille d'alcool")
 GTowerLangush.AddWord( 2, "alcohol_bottle_desc",	"Cette bouteille contient de l'alcool. Manipuler avec soin.")
 
 GTowerLangush.AddWord( 2, "send_trade_request",		"Votre demande d'échange à été envoyée à {1}.")
-GTowerLangush.AddWord( 2, "send_trade_recive",		"{1} veut commercer avec vous.")
-GTowerLangush.AddWord( 2, "send_trade_declined",	"{1} a refusé votre commerce.")
+GTowerLangush.AddWord( 2, "send_trade_recive",		"{1} veut échanger avec vous.")
+GTowerLangush.AddWord( 2, "send_trade_declined",	"{1} a refusé votre échange.")
 GTowerLangush.AddWord( 2, "send_trade_timeout",		"{1} n'a pas répondu à votre échange.")
-GTowerLangush.AddWord( 2, "trade_friend_accept",	"{1}'s accepté.")
+GTowerLangush.AddWord( 2, "trade_friend_accept",	"{1} vient d'accepté.")
 
 GTowerLangush.AddWord( 2, "send_trade_cancel",	"{1} a annulé le commerce.")
 GTowerLangush.AddWord( 2, "trade_succeful",	"Echange effectué avec succès.")
@@ -38,11 +38,11 @@ GTowerLangush.AddWord( 2, "trade_him_space",	"{1} n'a pas assez d'espace dans so
 GTowerLangush.AddWord( 2, "trade_has_accepted",		"{1} accepter." )
 GTowerLangush.AddWord( 2, "trade_hasnot_accepted" ,	"{1} n'a pas accepté.")
 GTowerLangush.AddWord( 2, "trade_trading_with" ,	"Echange avec {1}...")
-GTowerLangush.AddWord( 2, "trade_alredy_trading",	"{1} négocie actuellement." )
-GTowerLangush.AddWord( 2, "trade_IamAlredyTrading",	"Vous négociez actuellement." )
+GTowerLangush.AddWord( 2, "trade_alredy_trading",	"{1} échange déjà actuellement." )
+GTowerLangush.AddWord( 2, "trade_IamAlredyTrading",	"Vous échanger actuellement." )
 
 
-GTowerLangush.AddWord( 2, "trade_denied",	"Le commerce n'est pas autorisé ici.")
+GTowerLangush.AddWord( 2, "trade_denied",	"L'échange n'est pas autorisé ici.")
 GTowerLangush.AddWord( 2, "not_enough_money",	"Vous n'avez pas assez d'argent.")
 
 GTowerLangush.AddWord( 2, "Playerlist",	"Liste Joueurs")
