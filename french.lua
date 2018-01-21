@@ -15,59 +15,59 @@ GTowerLangush.AddWord( 2, "cancel",	"Annuler")
 
 GTowerLangush.AddWord( 2, "bye",	"Au revoir")
 
-GTowerLangush.AddWord( 2, "PleaseFullGtowerPack",	"Please get the latest GMod Tower modules at http://www.gmodtower.org/index.php?p=downloads")
+GTowerLangush.AddWord( 2, "PleaseFullGtowerPack",	"Obtenez les dernières mises à jour du serveur http://francerp.fr")
 
 GTowerLangush.AddWord( 2, "empty_bottle",		"Bouteille Vide")
-GTowerLangush.AddWord( 2, "empty_bottle_desc",		"Contains absolutely nothing.  Or does it?  You can't be sure until you break it open.")
-GTowerLangush.AddWord( 2, "alcohol_bottle",		"Bottle of Alcohol")
-GTowerLangush.AddWord( 2, "alcohol_bottle_desc",	"This bottle contains alcohol. Handle with care.")
+GTowerLangush.AddWord( 2, "empty_bottle_desc",		"Ne contient absolument rien.  Ou peut être ? Vous ne pouvez pas être sûr avant de l'avoir ouvert.")
+GTowerLangush.AddWord( 2, "alcohol_bottle",		"Bouteille d'alcool")
+GTowerLangush.AddWord( 2, "alcohol_bottle_desc",	"Cette bouteille contient de l'alcool. Manipuler avec soin.")
 
-GTowerLangush.AddWord( 2, "send_trade_request",		"Your trade request has been sent to {1}.")
-GTowerLangush.AddWord( 2, "send_trade_recive",		"{1} wants to trade with you.")
-GTowerLangush.AddWord( 2, "send_trade_declined",	"{1} has declined your trade.")
-GTowerLangush.AddWord( 2, "send_trade_timeout",		"{1} did not respond to your trade.")
-GTowerLangush.AddWord( 2, "trade_friend_accept",	"{1}'s acceptance.")
+GTowerLangush.AddWord( 2, "send_trade_request",		"Votre demande d'échange à été envoyée à {1}.")
+GTowerLangush.AddWord( 2, "send_trade_recive",		"{1} veut échanger avec vous.")
+GTowerLangush.AddWord( 2, "send_trade_declined",	"{1} a refusé votre échange.")
+GTowerLangush.AddWord( 2, "send_trade_timeout",		"{1} n'a pas répondu à votre échange.")
+GTowerLangush.AddWord( 2, "trade_friend_accept",	"{1} vient d'accepté.")
 
-GTowerLangush.AddWord( 2, "send_trade_cancel",	"{1} has cancelled the trade.")
+GTowerLangush.AddWord( 2, "send_trade_cancel",	"{1} a annulé le commerce.")
 GTowerLangush.AddWord( 2, "trade_succeful",	"Echange effectué avec succès.")
 
-GTowerLangush.AddWord( 2, "trade_you_space",	"You do not have enough space in your inventory - trade failed." )
-GTowerLangush.AddWord( 2, "trade_him_space",	"{1} does not have enough space in their inventory - trade failed.")
+GTowerLangush.AddWord( 2, "trade_you_space",	"Vous n'avez pas assez d'espace dans votre inventaire - le commerce à échoué." )
+GTowerLangush.AddWord( 2, "trade_him_space",	"{1} n'a pas assez d'espace dans son inventaire - le commerce à échoué.")
 
 
-GTowerLangush.AddWord( 2, "trade_has_accepted",		"{1} accepted." )
-GTowerLangush.AddWord( 2, "trade_hasnot_accepted" ,	"{1} has not accepted.")
-GTowerLangush.AddWord( 2, "trade_trading_with" ,	"Trading with {1}...")
-GTowerLangush.AddWord( 2, "trade_alredy_trading",	"{1} is currently trading." )
-GTowerLangush.AddWord( 2, "trade_IamAlredyTrading",	"You are currently trading." )
+GTowerLangush.AddWord( 2, "trade_has_accepted",		"{1} accepter." )
+GTowerLangush.AddWord( 2, "trade_hasnot_accepted" ,	"{1} n'a pas accepté.")
+GTowerLangush.AddWord( 2, "trade_trading_with" ,	"Echange avec {1}...")
+GTowerLangush.AddWord( 2, "trade_alredy_trading",	"{1} échange déjà actuellement." )
+GTowerLangush.AddWord( 2, "trade_IamAlredyTrading",	"Vous échanger actuellement." )
 
 
-GTowerLangush.AddWord( 2, "trade_denied",	"Trading is not allowed here.")
-GTowerLangush.AddWord( 2, "not_enough_money",	"You do not have enough money.")
+GTowerLangush.AddWord( 2, "trade_denied",	"L'échange n'est pas autorisé ici.")
+GTowerLangush.AddWord( 2, "not_enough_money",	"Vous n'avez pas assez d'argent.")
 
 GTowerLangush.AddWord( 2, "Playerlist",	"Liste Joueurs")
 
 GTowerLangush.AddWord( 2, "vacant",		"Innocupé")
 GTowerLangush.AddWord( 2, "RoomRoomsAvailable",	"Bienvenue, {1}.  Nous avons actuellement <font=Gtowerbigbold>{2}</font> suites de disponibles.   Voulez-vous en réservez une ?")
 GTowerLangush.AddWord( 2, "RoomNotAvailable",	"Salutations, {1}.  Nous sommes désolés, il n'y a aucune suite de disponible actuellement. Revenez s'il vous plaît plus tard.")
-GTowerLangush.AddWord( 2, "RoomWait",		"Please wait while I setup your suite.")
+GTowerLangush.AddWord( 2, "RoomWait",		"Veuillez patienter pendant la configuration de votre suite.")
 
 GTowerLangush.AddWord( 2, "RoomLongAway",	"Vous étiez loin de votre suite pendant {1} minute(s). Vous avez été expulsé.")
 
 GTowerLangush.AddWord( 2, "RoomGet",		"Merci d'avoir choisi notre hôtel.\nJe vous assigne la suite numéro <font=Gtowerbigbold><color=white>#{1}</color></font>.\nSi vous avez besoin d'une assistance avec votre suite, contactez s'il vous plaît un administrateur ou un modérateur. Parlez-moi quand vous voudrez partir de votre suite.")
 GTowerLangush.AddWord( 2, "RoomGetSmall",	"Vous avez été assigné à la suite numéro #{1}.")
-GTowerLangush.AddWord( 2, "RoomDeny",		"Alright.  Please come back later.")
+GTowerLangush.AddWord( 2, "RoomDeny",		"Bien. Merci de revenir plus tard.")
 
 GTowerLangush.AddWord( 2, "RoomReturn",		"Bonjour, {1}, \nQue puis-je faire pour vous?")
 GTowerLangush.AddWord( 2, "RoomReturnYes",	"J’espère que vous avez apprécié votre séjour à l'hôtel.  S’il vous plaît pensez à revenir plus tard.")
-GTowerLangush.AddWord( 2, "RoomReturnNo",	"Alright.  I'm glad you're enjoying your suite.  Please talk to me when you wish to check-out.")
-GTowerLangush.AddWord( 2, "RoomCleanUp",	"This will reset the suite to its original form.  All purchased furniture items will be deposited in the trunk.")
+GTowerLangush.AddWord( 2, "RoomReturnNo",	"Bien.  Je suis heureux que vous aimiez votre suite.  Parlez-moi s'il vous plaît quand vous souhaitez partir.")
+GTowerLangush.AddWord( 2, "RoomCleanUp",	"Cela réinitialisera la suite. Tous les articles de meubles achetés seront déposés dans votre coffre.")
 
-GTowerLangush.AddWord( 2, "RoomUpgrade",		"Upgrade your suite.")
-GTowerLangush.AddWord( 2, "RoomDoWantUpgrade",		"Do you wish to upgrade {1} to level {2}?")
-GTowerLangush.AddWord( 2, "RoomNotEnoughMoney",		"You do not have enough money to upgrade {1}.")
-GTowerLangush.AddWord( 2, "RoomInventoryOwnRoom",	"You are only allowed to use this in your own suite.")
-GTowerLangush.AddWord( 2, "RoomKickPlayers",	"Kick Players")
+GTowerLangush.AddWord( 2, "RoomUpgrade",		"Mettez à jour votre suite.")
+GTowerLangush.AddWord( 2, "RoomDoWantUpgrade",		"Voulez-vous améliorer {1} au niveau {2}?")
+GTowerLangush.AddWord( 2, "RoomNotEnoughMoney",		"Vous n'avez pas assez d'argent pour mettre à niveau {1}.")
+GTowerLangush.AddWord( 2, "RoomInventoryOwnRoom",	"Vous êtes seulement autorisé à l'utiliser dans votre propre suite.")
+GTowerLangush.AddWord( 2, "RoomKickPlayers",	"Expulser joueurs")
 
 GTowerLangush.AddWord( 2, "RoomNotOwner",	"Ce n'est pas votre suite.")
 GTowerLangush.AddWord( 2, "RoomCheckedOut",	"Vous avez été expulsé de votre suite.")
