@@ -19,10 +19,10 @@ GTowerLangush.AddWord( 2, "PleaseFullGtowerPack",	"Obtenez les dernières mises 
 
 GTowerLangush.AddWord( 2, "empty_bottle",		"Bouteille Vide")
 GTowerLangush.AddWord( 2, "empty_bottle_desc",		"Ne contient absolument rien.  Ou peut être ? Vous ne pouvez pas être sûr avant de l'avoir ouvert.")
-GTowerLangush.AddWord( 2, "alcohol_bottle",		"Bouteille d'alcool")
+GTowerLangush.AddWord( 2, "alcohol_bottle",		"Bouteille d\'alcool")
 GTowerLangush.AddWord( 2, "alcohol_bottle_desc",	"Cette bouteille contient de l'alcool. Manipuler avec soin.")
 
-GTowerLangush.AddWord( 2, "send_trade_request",		"Votre demande d'échange à été envoyée à {1}.")
+GTowerLangush.AddWord( 2, "send_trade_request",		"Votre demande d\'échange à été envoyée à {1}.")
 GTowerLangush.AddWord( 2, "send_trade_recive",		"{1} veut échanger avec vous.")
 GTowerLangush.AddWord( 2, "send_trade_declined",	"{1} a refusé votre échange.")
 GTowerLangush.AddWord( 2, "send_trade_timeout",		"{1} n'a pas répondu à votre échange.")
@@ -31,8 +31,8 @@ GTowerLangush.AddWord( 2, "trade_friend_accept",	"{1} vient d'accepté.")
 GTowerLangush.AddWord( 2, "send_trade_cancel",	"{1} a annulé le commerce.")
 GTowerLangush.AddWord( 2, "trade_succeful",	"Echange effectué avec succès.")
 
-GTowerLangush.AddWord( 2, "trade_you_space",	"Vous n'avez pas assez d'espace dans votre inventaire - l'échange à échoué." )
-GTowerLangush.AddWord( 2, "trade_him_space",	"{1} n'a pas assez d'espace dans son inventaire - l'échange à échoué.")
+GTowerLangush.AddWord( 2, "trade_you_space",	"Vous n'avez pas assez d'espace dans votre inventaire - l\'échange à échoué." )
+GTowerLangush.AddWord( 2, "trade_him_space",	"{1} n'a pas assez d'espace dans son inventaire - l\'échange à échoué.")
 
 
 GTowerLangush.AddWord( 2, "trade_has_accepted",		"{1} accepter." )
@@ -42,7 +42,7 @@ GTowerLangush.AddWord( 2, "trade_alredy_trading",	"{1} échange déjà actuellem
 GTowerLangush.AddWord( 2, "trade_IamAlredyTrading",	"Vous échanger actuellement." )
 
 
-GTowerLangush.AddWord( 2, "trade_denied",	"L'échange n'est pas autorisé ici.")
+GTowerLangush.AddWord( 2, "trade_denied",	"L\'échange n'est pas autorisé ici.")
 GTowerLangush.AddWord( 2, "not_enough_money",	"Vous n'avez pas assez d'argent.")
 
 GTowerLangush.AddWord( 2, "Playerlist",	"Liste Joueurs")
@@ -75,8 +75,8 @@ GTowerLangush.AddWord( 2, "RoomAdminDisabled",	"Les administrateurs ont désacti
 GTowerLangush.AddWord( 2, "RoomAdminRemoved",	"Un administrateur vous a retiré de votre suite.")
 GTowerLangush.AddWord( 2, "RoomMaxEnts",	"Vous ne pouvez pas avoir plus de {1} entités dans votre suite..")
 
-GTowerLangush.AddWord( 2, "RoomOwnerBroke",		"Vous n'êtes pas le propriétaire de la suite.")
-GTowerLangush.AddWord( 2, "RoomRadioWrongID",	"L'iD de la radio est {1}.  Tu as {2}.")
+GTowerLangush.AddWord( 2, "RoomOwnerBroke",		"Vous n\'êtes pas le propriétaire de la suite.")
+GTowerLangush.AddWord( 2, "RoomRadioWrongID",	"L\'iD de la radio est {1}.  Tu as {2}.")
 
 GTowerLangush.AddWord( 2, "Scoreboard_awards",		"Succès")
 
@@ -137,7 +137,7 @@ GTowerLangush.AddWord( 2, "StorePurchased",	"Vous venez d'acheter ''{1}''.")
 GTowerLangush.AddWord( 2, "StoreConfirmUpgrade",	"Êtes-vous sûr de vouloir améliorer ''{1}'' pour {2} GMC?")
 GTowerLangush.AddWord( 2, "StoreConfirmPurchase",	"Êtes-vous sûr de vouloir acheter ''{1}'' pour {2} GMC?")
 
-GTowerLangush.AddWord( 2, "BankFull",	"Il n'y à pas assez d'espace dans votre banque.")
+GTowerLangush.AddWord( 2, "BankFull",	"Il n\'y à pas assez d'espace dans votre banque.")
 GTowerLangush.AddWord( 2, "InventoryTooFar",	"C'est trop loin.")
 
 GTowerLangush.AddWord( 2, "BackpackShouldEquip",	"Vous devriez équiper le sac à dos avant de l'utiliser.")
